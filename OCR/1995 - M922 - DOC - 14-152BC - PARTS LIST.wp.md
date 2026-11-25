@@ -1,5 +1,5 @@
 # 1995 - M922 - DOC - 14-152BC - PARTS LIST.wp
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** 1995 (found in this ad: "Issue #1 February 8, 1995")
@@ -207,7 +207,7 @@ MW94001/14-152BC.wp
 
 ```json
 {
- "file": "Modules/FILTERS/M922/1995 - M922 - DOC - 14-152BC - PARTS LIST.wp",
+ "file": "Modules/FILTERS/M922/MANUALS/1995 - M922 - DOC - 14-152BC - PARTS LIST.wp",
  "sha256": "e232f1fa2ac775311ca63ba0c9d1ce21690de41d58593d8f71a507a3a23ce768",
  "kind": "doc",
  "models": [
