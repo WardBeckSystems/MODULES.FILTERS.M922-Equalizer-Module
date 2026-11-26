@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 21 in 19 lines: (004 Rad · 0,070 · 0 07) · DETNIL · 40 · MATERIAL; · ALUV ALLOY 0,125 ThiCK · FinISH: SAND 120Grit · AMD PAINT · TEXTURED BEICE ( 52C) · TEXCOTE   VNYL · WBS
 - **Title block:** (350, 50)–(432, 68) mm: WBS · WARD-BECK SYSTEMS · 4922,/49224
 
-Every curve, box, word and wire group: [19xx - M922 - DOC - 922-03-001 - STEREO EQUALIZER MODULE (traced).json](../MECHANICAL/19xx%20-%20M922%20-%20DOC%20-%20922-03-001%20-%20STEREO%20EQUALIZER%20MODULE%20(traced).json) (the CAD file: `19xx - M922 - DOC - 922-03-001 - STEREO EQUALIZER MODULE (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M922 - DOC - 922-03-001 - STEREO EQUALIZER MODULE (traced).json](../MECHANICAL/19xx%20-%20M922%20-%20DOC%20-%20922-03-001%20-%20STEREO%20EQUALIZER%20MODULE%20%28traced%29.json) (the CAD file: `19xx - M922 - DOC - 922-03-001 - STEREO EQUALIZER MODULE (traced).dxf`).
 
 ## Full text
 

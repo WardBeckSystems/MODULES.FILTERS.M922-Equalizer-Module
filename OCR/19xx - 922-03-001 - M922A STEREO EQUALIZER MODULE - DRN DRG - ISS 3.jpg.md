@@ -33,7 +33,7 @@ Wiki page: [M922](../../../../PAGES/M922.md)
 - **Words (OCR):** 39 in 33 lines: REC @ · 938 · Cs · 0200 · SHCNSAtiON · RAD CQ · 0,070 · (0.03 · 0.DS · FAR SIDE · 1675 · (SCHE #1)
 - **Title block:** (702, 54)–(864, 88) mm: REMSIC · WBS WARD · BECK SYSTEMS · M922/M922A
 
-Every curve, box, word and wire group: [19xx - 922-03-001 - M922A STEREO EQUALIZER MODULE - DRN DRG - ISS 3 (traced).json](../MECHANICAL/19xx%20-%20922-03-001%20-%20M922A%20STEREO%20EQUALIZER%20MODULE%20-%20DRN%20DRG%20-%20ISS%203%20(traced).json) (the CAD file: `19xx - 922-03-001 - M922A STEREO EQUALIZER MODULE - DRN DRG - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 922-03-001 - M922A STEREO EQUALIZER MODULE - DRN DRG - ISS 3 (traced).json](../MECHANICAL/19xx%20-%20922-03-001%20-%20M922A%20STEREO%20EQUALIZER%20MODULE%20-%20DRN%20DRG%20-%20ISS%203%20%28traced%29.json) (the CAD file: `19xx - 922-03-001 - M922A STEREO EQUALIZER MODULE - DRN DRG - ISS 3 (traced).dxf`).
 
 ## Full text
 

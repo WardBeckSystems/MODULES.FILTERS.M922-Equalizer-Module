@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 36 in 31 lines: REQ QOIA · 938 · 0200 · Dh · RAD CO · 0,070 · (0.03 · FAR SIDE · 1675 · (SCHE #1) · DETAIL · 0.257
 - **Title block:** (351, 27)–(432, 44) mm: REMSIC · WBS WARD · BECK SYSTEMS · M922/M922A
 
-Every curve, box, word and wire group: [19xx - M922 - DOC - 922-03-001 - SEE DETAIL NOTE ORIENTATIONS REQ'D FAR SIDE (traced).json](../MECHANICAL/19xx%20-%20M922%20-%20DOC%20-%20922-03-001%20-%20SEE%20DETAIL%20NOTE%20ORIENTATIONS%20REQ%27D%20FAR%20SIDE%20(traced).json) (the CAD file: `19xx - M922 - DOC - 922-03-001 - SEE DETAIL NOTE ORIENTATIONS REQ'D FAR SIDE (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M922 - DOC - 922-03-001 - SEE DETAIL NOTE ORIENTATIONS REQ'D FAR SIDE (traced).json](../MECHANICAL/19xx%20-%20M922%20-%20DOC%20-%20922-03-001%20-%20SEE%20DETAIL%20NOTE%20ORIENTATIONS%20REQ%27D%20FAR%20SIDE%20%28traced%29.json) (the CAD file: `19xx - M922 - DOC - 922-03-001 - SEE DETAIL NOTE ORIENTATIONS REQ'D FAR SIDE (traced).dxf`).
 
 ## Full text
 
