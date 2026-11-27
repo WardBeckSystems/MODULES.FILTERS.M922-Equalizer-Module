@@ -1,17 +1,17 @@
-# M922 · Filters
+# M922 Equalizer Module · Filters
 
 Ward-Beck Systems M922, 1994|27. Wiki page: [M922 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M922.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
 | [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 9 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 12 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 16 |
 | [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
 | [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 3 |
 | [PHOTOS/](PHOTOS/) | photographs of the module | 6 |
 | [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 2 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 19 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 18 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -129,18 +129,8 @@ _Photographs of the module itself: front, back, inside, racked._
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/18hZ0lifdNQp8IvJRBvDuT1FEzig8uTDJ/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=18hZ0lifdNQp8IvJRBvDuT1FEzig8uTDJ" width="240" alt="19xx - M922 - DOC - 922-03-001 - SEE DETAIL NOTE ORIENTATIONS REQ'D FAR SIDE.jpg"></a><br><sub>19xx - M922 - DOC - 922-03-001 - SEE DETAIL NOTE ORIENTATIONS REQ'D FAR SIDE</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1kuC5LOv6aGX37O75sEjJnDpnN2D01llf/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1kuC5LOv6aGX37O75sEjJnDpnN2D01llf" width="240" alt="19xx - M922 - DOC - 922-03-001 - STEREO EQUALIZER MODULE.png"></a><br><sub>19xx - M922 - DOC - 922-03-001 - STEREO EQUALIZER MODULE</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/18hZ0lifdNQp8IvJRBvDuT1FEzig8uTDJ/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=18hZ0lifdNQp8IvJRBvDuT1FEzig8uTDJ" width="240" alt="19xx - M922 - DOC - 922-03-001 - SEE DETAIL NOTE ORIENTATIONS REQ'D FAR SIDE.jpg"></a><br><sub>19xx - M922 - DOC - 922-03-001 - SEE DETAIL NOTE ORIENTATIONS REQ'D FAR SIDE · <a href="MECHANICAL/19xx%20-%20M922%20-%20DOC%20-%20922-03-001%20-%20SEE%20DETAIL%20NOTE%20ORIENTATIONS%20REQ%27D%20FAR%20SIDE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1kuC5LOv6aGX37O75sEjJnDpnN2D01llf/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1kuC5LOv6aGX37O75sEjJnDpnN2D01llf" width="240" alt="19xx - M922 - DOC - 922-03-001 - STEREO EQUALIZER MODULE.png"></a><br><sub>19xx - M922 - DOC - 922-03-001 - STEREO EQUALIZER MODULE · <a href="MECHANICAL/19xx%20-%20M922%20-%20DOC%20-%20922-03-001%20-%20STEREO%20EQUALIZER%20MODULE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `19xx - 922-03-001 - M922A STEREO EQUALIZER MODULE - DRN DRG - ISS 3.jpg`
-
-## 3-D model
-
-[`MECHANICAL/M922.stl`](MECHANICAL/M922.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M922)
-
-- **Size:** 38 × 203 mm panel, 168 mm deep, 3.2 mm plate (TECHNICAL DATA: 1.5" wide x 8" high x 6.6" deep. (38mm x 203mm x 168mm).)
-- **From the drawing:** 6 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M922 - front panel.svg`)
-- Made by `tools/module_models.py` (→ `MECHANICAL/M922.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## KiCad
 
