@@ -134,6 +134,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 
 Not on Google Drive yet: `19xx - 922-03-001 - M922A STEREO EQUALIZER MODULE - DRN DRG - ISS 3.jpg`
 
+## 3-D model
+
+[`MECHANICAL/M922.stl`](MECHANICAL/M922.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M922)
+
+- **Size:** 38 × 203 mm panel, 168 mm deep, 3.2 mm plate (TECHNICAL DATA: 1.5" wide x 8" high x 6.6" deep. (38mm x 203mm x 168mm).)
+- **From the drawing:** 6 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M922 - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M922.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
