@@ -1,0 +1,352 @@
+{
+ "module": "M922",
+ "title": "M922/M922A EQUALIZER MODULES",
+ "source": {
+  "file": "MANUALS/1995 - M922 - DOC - 14-152-02-003 - COMPONENT LAYOUT.wp",
+  "page": 1
+ },
+ "ocr_quality": 0.98,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "Unity, ±0.5 dB.",
+   "quantities": [
+    {
+     "value": 0.5,
+     "unit": "dB",
+     "tolerance": true
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "±0.5 dB from 20 Hz to 20 kHz with the equalizer inserted, high pass filter disabled, and the cut and boost controls in their centre detent position.",
+   "quantities": [
+    {
+     "value": 0.5,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "-90 dBm absolute (20 Hz to 20 kHz), equalizer cut/boost controls in their centre detent position.",
+   "quantities": [
+    {
+     "value": -90,
+     "unit": "dBm"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Total harmonic distortion",
+   "key": "total_harmonic_distortion",
+   "text": "Less than 0.25% from 20 Hz to 20 kHz at +20 dBu output or less. Less than 0.01% at 1 kHz at +20 dBu output level.",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "%"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 20,
+     "unit": "dBu"
+    },
+    {
+     "value": 0.01,
+     "unit": "%"
+    },
+    {
+     "value": 1,
+     "unit": "kHz"
+    },
+    {
+     "value": 20,
+     "unit": "dBu"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "300 ohms or less, unbalanced. 600 ohms or less, balanced.",
+   "quantities": [
+    {
+     "value": 300,
+     "unit": "ohms"
+    },
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "Greater than 10K ohms unbalanced; 20K ohms balanced."
+  },
+  {
+   "name": "Input level",
+   "key": "input_level",
+   "text": "-6 dBu nominal, +20 dBu maximum.",
+   "quantities": [
+    {
+     "value": -6,
+     "unit": "dBu"
+    },
+    {
+     "value": 20,
+     "unit": "dBu"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "30 ohms or less unbalanced.",
+   "quantities": [
+    {
+     "value": 30,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "5K ohms or greater."
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "-6 dBu nominal, +21 dBu maximum.",
+   "quantities": [
+    {
+     "value": -6,
+     "unit": "dBu"
+    },
+    {
+     "value": 21,
+     "unit": "dBu"
+    }
+   ]
+  },
+  {
+   "name": "Channel separation",
+   "key": "channel_separation",
+   "text": "Greater than -80 dB 20 Hz to 20 kHz.",
+   "quantities": [
+    {
+     "value": -80,
+     "unit": "dB"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "Input and Output are in phase with the equalizing controls in the centre detent position."
+  },
+  {
+   "name": "Equalization tracking",
+   "key": "equalization_tracking",
+   "text": "Within 1 dB.",
+   "quantities": [
+    {
+     "value": 1,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "±23 volts DC (M922 120 mA), (M922A 65 mA).",
+   "quantities": [
+    {
+     "value": 23,
+     "unit": "volts DC",
+     "tolerance": true
+    },
+    {
+     "value": 120,
+     "unit": "mA"
+    },
+    {
+     "value": 922,
+     "unit": "A"
+    },
+    {
+     "value": 65,
+     "unit": "mA"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "0 to 50 degrees Celsius.",
+   "quantities": [
+    {
+     "from": 0,
+     "to": 50,
+     "unit": "degrees Celsius"
+    }
+   ]
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "1.5\" wide x 8\" high x 6.6\" deep. (38mm x 203mm x 168mm).",
+   "quantities": [
+    {
+     "value": 1.5,
+     "unit": "\""
+    },
+    {
+     "value": 8,
+     "unit": "\""
+    },
+    {
+     "value": 6.6,
+     "unit": "\""
+    },
+    {
+     "value": 38,
+     "unit": "mm"
+    },
+    {
+     "value": 203,
+     "unit": "mm"
+    },
+    {
+     "value": 168,
+     "unit": "mm"
+    }
+   ]
+  },
+  {
+   "name": "Weight",
+   "key": "weight",
+   "text": "M922 14 ounces, (400 grams). M922A 14 ounces, (400 grams). GENERAL M922/M922A EQUALIZER MODULES The M922/M922A Stereo and Mono Equalizers operate in conjunction with the M901 series of input modules. A High-Pass filter with a 75 Hz corner frequency maybe inserted separately, pre-equalizer, or not at all. Insertion is tallied by the LED located in the insertion switch. The equalizer separates the audio into three separate bands. Low frequencies from 20 Hz to 500 Hz are adjustable over ±15 dB of range. The low frequency section imparts a shelving response to the audio spectrum. High frequencies are also equalized with a shelving characteristic. Continuously adjustable boost or cut (+15 dB) is provided. The high frequency section can tailor the signal response from 1.8 kHz to 15 kHz. The mid frequency section controls equalization of signal from 400 Hz to 6.4 kHz, and has a bell-shaped characteristic curve. This section has a ±15 dB adjustment range. The quality factor (\"Q\") is 2. The equalizer insertion switch is provided with an integral LED totally it's operation. All insertion switching in the M922/M922A is performed using solid-state analog switches. No audio is switched directly from the front panel. The equalizer is packaged ina single module size of 1.5\" wide x 8.0\" high x 6.6\" deep. The M922/M922A is powered by ±23 volts DC.",
+   "quantities": [
+    {
+     "value": 922,
+     "unit": "A"
+    },
+    {
+     "value": 922,
+     "unit": "A"
+    },
+    {
+     "value": 922,
+     "unit": "A"
+    },
+    {
+     "value": 75,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 500,
+     "unit": "Hz"
+    },
+    {
+     "value": 15,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 15,
+     "unit": "dB"
+    },
+    {
+     "value": 1.8,
+     "unit": "kHz"
+    },
+    {
+     "value": 15,
+     "unit": "kHz"
+    },
+    {
+     "value": 400,
+     "unit": "Hz"
+    },
+    {
+     "value": 6.4,
+     "unit": "kHz"
+    },
+    {
+     "value": 15,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 922,
+     "unit": "A"
+    },
+    {
+     "value": 1.5,
+     "unit": "\""
+    },
+    {
+     "value": 8,
+     "unit": "\""
+    },
+    {
+     "value": 6.6,
+     "unit": "\""
+    },
+    {
+     "value": 922,
+     "unit": "A"
+    },
+    {
+     "value": 23,
+     "unit": "volts DC",
+     "tolerance": true
+    }
+   ]
+  }
+ ]
+}
