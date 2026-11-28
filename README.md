@@ -1,16 +1,15 @@
-# M922 Equalizer Module · Filters
+# M922 Equalizer Module · Renaissance
 
 Ward-Beck Systems M922, 1994|27. Wiki page: [M922 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M922.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 9 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 16 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 3 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 6 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 2 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 8 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 15 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 2 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 5 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 1 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 18 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -132,12 +131,19 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/18hZ0lifdNQp8IvJRBvDuT1FEzig8uTDJ/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=18hZ0lifdNQp8IvJRBvDuT1FEzig8uTDJ" width="240" alt="19xx - M922 - DOC - 922-03-001 - SEE DETAIL NOTE ORIENTATIONS REQ'D FAR SIDE.jpg"></a><br><sub>19xx - M922 - DOC - 922-03-001 - SEE DETAIL NOTE ORIENTATIONS REQ'D FAR SIDE · <a href="MECHANICAL/19xx%20-%20M922%20-%20DOC%20-%20922-03-001%20-%20SEE%20DETAIL%20NOTE%20ORIENTATIONS%20REQ%27D%20FAR%20SIDE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1kuC5LOv6aGX37O75sEjJnDpnN2D01llf/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1kuC5LOv6aGX37O75sEjJnDpnN2D01llf" width="240" alt="19xx - M922 - DOC - 922-03-001 - STEREO EQUALIZER MODULE.png"></a><br><sub>19xx - M922 - DOC - 922-03-001 - STEREO EQUALIZER MODULE · <a href="MECHANICAL/19xx%20-%20M922%20-%20DOC%20-%20922-03-001%20-%20STEREO%20EQUALIZER%20MODULE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M922.stl`](MECHANICAL/M922.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M922)
+
+- **Size:** 38 × 203 mm panel, 168 mm deep, 3.2 mm plate (TECHNICAL DATA: 1.5" wide x 8" high x 6.6" deep. (38mm x 203mm x 168mm).)
+- **From the drawing:** 6 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M922 - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M922.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
 
 - [M922.kicad_sym](KICAD/M922.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
