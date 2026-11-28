@@ -1,7 +1,7 @@
 {
  "format": "wbs-model/1",
  "module": "M922",
- "repo": "MODULES.FILTERS.M922-Equalizer-Module",
+ "repo": "MODULES.RENAISSANCE.M922-Equalizer-Module",
  "title": "Equalizer Module",
  "category": "FILTERS",
  "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
