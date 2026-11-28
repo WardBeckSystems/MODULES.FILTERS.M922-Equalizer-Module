@@ -1,6 +1,6 @@
 # M922 Equalizer Module · Renaissance
 
-Ward-Beck Systems M922, 1994|27. Wiki page: [M922 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M922.html)
+Ward-Beck Systems M922, 1994|27. Wiki page: [M922 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M922-Equalizer-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
